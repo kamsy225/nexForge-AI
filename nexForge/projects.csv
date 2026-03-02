@@ -1,0 +1,29 @@
+id,domain,level,tools_required,time_required,title,description,dataset_link,architecture,difficulty_score
+1,Healthcare,Intermediate,"Python, ML, SQL",1 week,Disease Predictor,Predict diseases based on patient symptoms.,https://kaggle.com/disease,Random Forest App,65
+2,FinTech,Advanced,"Python, Deep Learning, AWS",1 month,Fraud Detection System,Real-time transaction anomaly detection.,https://kaggle.com/fraud,LSTM Autoencoder,85
+3,AI,Advanced,"Python, Deep Learning, NLP, Docker",1 month,Custom LLM Finetuning,Fine-tune an open-source LLM on custom text data.,https://huggingface.co/datasets,Transformer/LLaMA,90
+4,Education,Beginner,"Python, SQL",3 days,Student Performance Analysis,Analyze factors affecting student grades.,https://kaggle.com/student,Linear Regression,35
+5,Logistics,Intermediate,"Python, ML, Docker",1 week,Delivery Route Optimizer,Optimize delivery routing using historical traffic.,https://kaggle.com/traffic,Q-Learning,70
+6,Healthcare,Advanced,"Python, Deep Learning, Flutter",1 month,Skin Lesion Classifier Mobile App,Mobile app to classify skin lesions from images.,https://kaggle.com/skin,CNN + Flutter,88
+7,FinTech,Beginner,"Python, ML",3 days,Credit Risk Scorer,Simple model to score credit risk of applicants.,https://kaggle.com/credit,Logistic Regression,40
+8,AI,Intermediate,"Python, NLP",1 week,Sentiment Analysis Dashboard,Real-time dashboard for Twitter sentiment.,https://kaggle.com/sentiment,DistilBERT,60
+9,Education,Advanced,"Python, Deep Learning, NLP, AWS",1 month,Automated Essay Grader,Grade essays using deep NLP models deployed to AWS.,https://kaggle.com/essays,BERT,82
+10,Logistics,Beginner,"Python, SQL",3 days,Inventory Forecasting,Predict future inventory needs based on sales history.,https://kaggle.com/inventory,ARIMA,45
+11,Hardware,Beginner,"Arduino, C++",3 days,LED Traffic Light Controller,Build a traffic light system controller using Arduino and LEDs.,https://docs.arduino.cc,Arduino State Machine,30
+12,Hardware,Intermediate,"Raspberry Pi, Python, Electronics",1 week,Line Following Robot,Build a robot that autonomously follows a drawn line using IR sensors.,https://instructables.com/line-robot,Motor Control + IR Sensor,60
+13,Hardware,Advanced,"FPGA, VHDL, Electronics",1 month,FPGA-Based Signal Processing,Implement digital filters in hardware using VHDL on an FPGA board.,https://digilent.com,FPGA Pipeline,88
+14,IoT,Beginner,"Python, Arduino, MQTT",3 days,Smart Home Temperature Monitor,Monitor room temperature via DHT11 sensor and display on a web dashboard.,https://thingspeak.com,Sensor + MQTT + Dashboard,38
+15,IoT,Intermediate,"Python, Raspberry Pi, AWS, MQTT",1 week,IoT Plant Watering System,Automatically water plants based on soil moisture readings sent to AWS IoT.,https://aws.amazon.com/iot,Sensor + Lambda + IoT Core,65
+16,IoT,Advanced,"Python, Docker, AWS, ML, MQTT",1 month,Predictive IoT Maintenance System,Predict machine failures from sensor streams using ML deployed on AWS.,https://kaggle.com/predictive-maintenance,Edge ML + AWS IoT,87
+17,Hybrid,Beginner,"Python, Flutter, SQL",3 days,Personal Expense Tracker App,Mobile app that tracks expenses with a Python backend and SQLite storage.,https://pub.dev,Flutter + REST API,42
+18,Hybrid,Intermediate,"Python, Flutter, ML, SQL",1 week,Crop Disease Detector,Snap a photo of a crop and detect disease using a CNN model + Flutter UI.,https://kaggle.com/plant-disease,CNN + Flutter + FastAPI,72
+19,Hybrid,Advanced,"Python, Deep Learning, Flutter, AWS, Docker",1 month,Real-Time Sign Language Translator,Translate sign language gestures to text in real time via mobile camera.,https://kaggle.com/sign-language,MediaPipe + Deep Learning + Flutter,91
+20,Web,Beginner,"HTML, CSS, JavaScript",3 days,Personal Portfolio Website,Build a responsive portfolio site with HTML/CSS and basic JavaScript animations.,https://developer.mozilla.org,Static Site,28
+21,Web,Intermediate,"JavaScript, React, SQL, Docker",1 week,Job Board Web App,Full-stack web app for posting and browsing job listings with search.,https://github.com/explore,React + Node.js + PostgreSQL,62
+22,Web,Advanced,"Python, React, AWS, Docker, SQL",1 month,SaaS Analytics Dashboard,Multi-tenant analytics dashboard with user auth deployed on AWS.,https://aws.amazon.com,React + FastAPI + RDS,86
+23,Mobile,Beginner,"Flutter, SQL",3 days,To-Do List Mobile App,Simple task management app built with Flutter and local SQLite storage.,https://pub.dev,Flutter + SQLite,32
+24,Mobile,Intermediate,"Flutter, Python, NLP",1 week,AI Chat Assistant App,Mobile chatbot app powered by an NLP backend via REST API.,https://pub.dev,Flutter + FastAPI + NLP,68
+25,Mobile,Advanced,"Flutter, Deep Learning, AWS, Python",1 month,Real-Time Object Detection App,Mobile app that detects objects from camera feed using a YOLOv8 model on AWS.,https://docs.ultralytics.com,YOLOv8 + Flutter + AWS Lambda,90
+26,Game Dev,Beginner,"Python, Pygame",3 days,Snake Game Clone,Classic Snake game built with Python and Pygame from scratch.,https://pygame.org,Pygame 2D,30
+27,Game Dev,Intermediate,"Unity, C#",1 week,2D Platformer Game,Build a side-scrolling platformer game with Unity including physics and sound.,https://learn.unity.com,Unity 2D + C#,64
+28,Game Dev,Advanced,"Unity, C#, Python, ML",1 month,AI-Powered NPC Game,Unity game featuring NPCs that learn to hunt the player using reinforcement learning.,https://github.com/Unity-Technologies/ml-agents,Unity ML-Agents + PPO,89
